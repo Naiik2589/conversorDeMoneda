@@ -1,4 +1,5 @@
 Currency Converter
+
 Descripción
 Este proyecto es un conversor de monedas que permite a los usuarios convertir entre varias monedas utilizando tasas de cambio actualizadas en tiempo real. Utiliza la API de ExchangeRate para obtener los datos de conversión y está desarrollado en Java.
 
@@ -43,12 +44,5 @@ Ingrese el monto (formato numérico, por ejemplo, 1.6):
 10.5
 Monto convertido: EUR a COP '10.5' = 48,483.65 COP
 ¿Desea hacer otra conversión? (s/n)
-s
-Capturas de Pantalla
-(Inserta aquí capturas de pantalla que muestren la interfaz y las funcionalidades del programa).
 
-Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o crea un pull request.
 
-Licencia
-Este proyecto está licenciado bajo la MIT License.
