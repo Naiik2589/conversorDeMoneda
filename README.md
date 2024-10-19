@@ -42,7 +42,9 @@ Seleccione la moneda destino:
 2
 Ingrese el monto (formato numérico, por ejemplo, 1.6): 
 10.5
+   
 Monto convertido: EUR a COP '10.5' = 48,483.65 COP
+
 ¿Desea hacer otra conversión? (s/n)
 
 
