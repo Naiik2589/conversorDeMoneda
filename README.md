@@ -18,8 +18,7 @@ Ejecuta el archivo CurrencyConverter.java.
 Ejemplo de Uso
 Aquí hay un ejemplo de cómo se ve la interacción con el usuario:
 
-markdown
-Copiar código
+
 Seleccione la moneda origen:
 1. USD
 2. EUR
@@ -40,6 +39,7 @@ Seleccione la moneda destino:
 7. CAD
 8. CHF
 2
+
 Ingrese el monto (formato numérico, por ejemplo, 1.6): 
 10.5
    
