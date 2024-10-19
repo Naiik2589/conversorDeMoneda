@@ -28,6 +28,7 @@ Seleccione la moneda origen:
 6. AUD
 7. CAD
 8. CHF
+
 1
 Seleccione la moneda destino:
 1. USD
@@ -38,6 +39,7 @@ Seleccione la moneda destino:
 6. AUD
 7. CAD
 8. CHF
+
 2
 
 Ingrese el monto (formato numérico, por ejemplo, 1.6): 
