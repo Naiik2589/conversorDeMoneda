@@ -30,6 +30,7 @@ Seleccione la moneda origen:
 8. CHF
 
 1
+
 Seleccione la moneda destino:
 1. USD
 2. EUR
